@@ -2,7 +2,7 @@
 # a simple 300 - 1k requests per second DoS tool [L7/http]
 
 ----------------------------------------------
-AUTHOR/DEV : Creaminit1234/AreoGlass
+AUTHOR/DEV : Creaminit1234/AreoGlass         
 ----------------------------------------------
 
 This is a basic DoS tool for L7, this program gives a 300 - 1k requests per second or sometimes gives 5k requests per second
@@ -15,7 +15,8 @@ THERE IS SOME BUGS IN THIS VERSION THEY WILL BE FIXED ON THE NEXT RELEASE OR MAY
 [TEST - 2] Here is the power of this program: [Ran on 3 machines]
 ![test2](https://user-images.githubusercontent.com/118284748/211181711-795ebc33-6971-4d1c-907e-4e242b15fd2d.png)
 [TEST - 3] Here is the power of this program: [Ran on 3 machines] [This test used v2 of this program]
-![test3-raras-http-v2](https://user-images.githubusercontent.com/118284748/212828729-a3f37523-1348-439a-8bf9-8ebbec71f8dc.png)
+![test3-raras-http-v2](https://user-images.githubusercontent.com/118284748/212829048-7db9321b-8c2f-40d6-aa38-c9b772248f2c.png)
+
 
 
 > THANKS FOR DOWNLOADING THIS TRASH [if you download this]
