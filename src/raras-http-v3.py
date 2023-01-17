@@ -22,7 +22,7 @@ print(f"""
  dP     dP `88888P8 dP       `88888P8 `88888P'          dP    dP   dP     dP   88Y888P'          
                                                                                88                                 
 {colorama.Fore.LIGHTBLUE_EX}Version 3.0
-{colorama.Fore.BLUE} New feature! This time all the requests are made with i0$ 14`s user-agent
+{BLUE} New feature! This time all the requests are made with i0$ 14`s user-agent
 {colorama.Fore.LIGHTBLUE_EX}Developer: Creaminit1234
 {colorama.Fore.LIGHTGREEN_EX}GITHUB PAGE: github.com/Creaminit1234
 {colorama.Fore.LIGHTMAGENTA_EX}>Only for educational purposes<
